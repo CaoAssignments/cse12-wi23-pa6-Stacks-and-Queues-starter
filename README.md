@@ -1,4 +1,4 @@
-# CSE 12 Spring 2022 PA6 - Stacks and Queues with a Deque
+# CSE 12 Winter 2023 PA6 - Stacks and Queues with a Deque
 
 [There is an FAQ post on Piazza.](https://piazza.com/class/lch5pcfyhil3n8/post/693) **Due date: Thursday, March 2 @ 11:59 PM PST**
 
